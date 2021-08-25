@@ -309,4 +309,6 @@
         </nav>
     </nav>
 
-	<h1>worksa</h1>
+     <button class="view-catalog btn btn-primary d-lg-none d-block" data-toggle="modal" data-target="#viewCatalog">
+         Каталог товаров
+     </button>
