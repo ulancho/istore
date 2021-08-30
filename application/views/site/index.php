@@ -1,10 +1,4 @@
 <div id="app">
-	<div class="container">
-		<div class="col-12 pl-0">
-
-		</div>
-	</div>
-
 	<div class="wrapper">
         <!--	Главный слайдер 	-->
 		<section class="main-first-section position-relative overflow-hidden">
@@ -56,6 +50,100 @@
 			</div>
 		</section>
 
+		<section class="main-second-section container">
+			<div class="h-100 d-flex flex-wrap">
+				<div class="text-center w-100 my-lg-5 mt-2 mb-4">
+					<h3 class="sf-sem main-title mb-0">Каталог</h3>
+				</div>
+			</div>
+
+			<div class="d-flex flex-wrap mb-10">
+				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
+					<div class="catalog-card">
+						<img src="static/media/category/macbook.png" alt="">
+						<div class="d-flex flex-wrap justify-content-between">
+							<p class="sf-sem catalog-name">Mac</p>
+							<a href="macBook.html" class="link">
+								перейти
+								<img src="static/img/right-arr.svg" alt="">
+							</a>
+						</div>
+						<a class="ml-2 link-to-product" href="macBook.html">
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
+					<div class="catalog-card">
+						<img src="static/media/category/new.png" alt="">
+						<div class="d-flex flex-wrap justify-content-between">
+							<p class="sf-sem catalog-name">iPhone</p>
+							<a href="iphone.html" class="link">
+								перейти
+								<img src="static/img/right-arr.svg" alt="">
+							</a>
+						</div>
+						<a class="ml-2 link-to-product" href="iphone.html">
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
+					<div class="catalog-card">
+						<img src="static/media/category/ipad.png" alt="">
+						<div class="d-flex flex-wrap justify-content-between">
+							<p class="sf-sem catalog-name">iPad</p>
+							<a href="iPad.html" class="link">
+								перейти
+								<img src="static/img/right-arr.svg" alt="">
+							</a>
+						</div>
+						<a class="ml-2 link-to-product" href="iPad.html">
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
+					<div class="catalog-card">
+						<img src="static/media/category/watches.png" alt="">
+						<div class="d-flex flex-wrap justify-content-between">
+							<p class="sf-sem catalog-name">Watch</p>
+							<a href="apple-watch.html" class="link">
+								перейти
+								<img src="static/img/right-arr.svg" alt="">
+							</a>
+						</div>
+						<a class="ml-2 link-to-product" href="apple-watch.html">
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
+					<div class="catalog-card">
+						<img src="static/media/category/acces.png" alt="">
+						<div class="d-flex flex-wrap justify-content-between">
+							<p class="sf-sem catalog-name">Аксессуары</p>
+							<a href="accessory.html" class="link">
+								перейти
+								<img src="static/img/right-arr.svg" alt="">
+							</a>
+						</div>
+						<a class="ml-2 link-to-product" href="accessory.html">
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
+					<div class="catalog-card">
+						<img src="static/media/category/gadget.png" alt="">
+						<div class="d-flex flex-wrap justify-content-between mt-auto">
+							<p class="sf-sem catalog-name">Гаджеты</p>
+							<a href="gadgets.html" class="link">
+								перейти
+								<img src="static/img/right-arr.svg" alt="">
+							</a>
+						</div>
+						<a class="ml-2 link-to-product" href="gadgets.html">
+						</a>
+					</div>
+				</div>
+			</div>
+		</section>
 
 		<section class="main-third-section mt-2">
 			<div class="h-100 max-14 d-flex flex-wrap px-2">
