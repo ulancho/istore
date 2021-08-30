@@ -9,7 +9,7 @@
         <!--	Главный слайдер 	-->
 		<section class="main-first-section position-relative overflow-hidden">
 			<div class="main-slider-container">
-				<div class="slider" style="background-color:#000000">
+				<div class="slider slider-background">
 					<h3 class="typography-hero-headline-super"
 						style="margin: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; color: #f5f5f7; quotes: '&laquo; ' ' &raquo;'; font-size: 24px; line-height: 1.05; letter-spacing: -0.015em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; background-image: radial-gradient(at center center, #eff1ff 10%, #000000 100%); background-size: 54% 156%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; caret-color: #f5f5f7; text-align: center; background-position: center center;">
 						&nbsp;</h3>
@@ -28,11 +28,11 @@
 					<p>&nbsp;</p>
 					<h2 class="typography-hero-product-headline" style="text-align: center; padding-left: 40px;">
 						<img style="display: block; margin-left: auto; margin-right: auto;"
-							 src="media/documents/2021-06-15/NEWiphone_12_pro__f7wokw1n4lm6_large_2x.jpg" alt=""
+							 src="static/media/documents/2021-06-15/NEWiphone_12_pro__f7wokw1n4lm6_large_2x.jpg" alt=""
 							 width="1000" height="auto"/></h2>
 				</div>
 
-				<div class="slider" style="background-color:#000000">
+				<div class="slider slider-background">
 					<h3 class="typography-hero-headline-super"
 						style="margin: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; color: #f5f5f7; quotes: '&laquo; ' ' &raquo;'; font-size: 24px; line-height: 1.05; letter-spacing: -0.015em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; background-image: radial-gradient(at center center, #eff1ff 10%, #000000 100%); background-size: 54% 156%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; caret-color: #f5f5f7; text-align: center; background-position: center center;">
 						&nbsp;</h3>
@@ -50,112 +50,13 @@
 					<p>&nbsp;</p>
 					<h2 class="typography-hero-product-headline" style="text-align: center;"><img
 							style="display: block; margin-left: auto; margin-right: auto;"
-							src="media/documents/2021-06-15/hero_endframe__bsza6x4fldiq_large_2x_jHg8g3f.jpg" alt=""
+							src="static/media/documents/2021-06-15/hero_endframe__bsza6x4fldiq_large_2x_jHg8g3f.jpg" alt=""
 							width="1100" height="auto"/></h2>
-				</div>
-
-				<div class="slider" style="background-color:#000000">
-					<h3 class="typography-hero-headline-super"
-						style="margin: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; color: #f5f5f7; quotes: '&laquo; ' ' &raquo;'; font-size: 24px; line-height: 1.05; letter-spacing: -0.015em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; background-image: radial-gradient(at center center, #eff1ff 10%, #000000 100%); background-size: 54% 156%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; caret-color: #f5f5f7; text-align: center; background-position: center center;">
-						&nbsp;</h3>
-					<h3 class="typography-hero-headline-super"
-						style="margin: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; color: #f5f5f7; quotes: '&laquo; ' ' &raquo;'; font-size: 24px; line-height: 1.05; letter-spacing: -0.015em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; background-image: radial-gradient(at center center, #eff1ff 10%, #000000 100%); background-size: 54% 156%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; caret-color: #f5f5f7; text-align: center; background-position: center center;">
-                            <span style="font-size: 24pt;"><span
-									class="violator-frameless typography-hero-product-eyebrow section-hero-product-violator"><span
-										style="font-size: 24pt;">С новой силой.</span></span></span></h3>
-					<h2 class="typography-hero-product-headline" style="text-align: center;"><span
-							style="color: #ced4d9; font-size: 14pt;">MacBook Air</span></h2>
-					<p style="text-align: center;"><a class="icon-wrapper" href="catalog/mac/mac-13-air.html"
-													  data-analytics-title="learn more about imac"
-													  aria-label="Подробнее об&nbsp;iMac 24&nbsp;дюйма"><span
-								class="icon-copy">Подробнее</span></a></p>
-					<p>&nbsp;</p>
-					<p style="padding-left: 40px;"><img
-							style="display: block; margin-left: auto; margin-right: auto;"
-							src="media/documents/2021-06-15/hero_endframe__ea0qze85eyi6_large_2x.jpg" alt=""
-							width="1000" height="auto"/></p>
-				</div>
-
-				<div class="slider" style="background-color:#000000">
-					<p class="typography-hero-product-headline" style="text-align: center;"><span
-							style="color: #f56300; font-size: 14pt;"><br/>Новый</span></p>
-					<h3 class="typography-hero-headline-super"
-						style="margin: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; color: #f5f5f7; quotes: '&laquo; ' ' &raquo;'; font-size: 24px; line-height: 1.05; letter-spacing: -0.015em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; caret-color: #f5f5f7; text-align: center; background-position: center center;">
-                            <span style="font-size: 24pt;"><span
-									class="violator-frameless typography-hero-product-eyebrow section-hero-product-violator"><span
-										style="font-size: 24pt;">iMac.</span></span></span><span
-							style="color: #ced4d9; font-size: 14pt;"><br/><a class="icon-wrapper"
-																			 style="font-size: medium; text-align: center; margin: 20px;"
-																			 href="catalog/iMac.html"
-																			 data-analytics-title="learn more about imac"
-																			 aria-label="Подробнее об&nbsp;iMac 24&nbsp;дюйма"><span
-									class="icon-copy">Подробнее</span></a><br/><br/></span></h3>
-					<h2 class="typography-hero-product-headline" style="text-align: center;"><img
-							style="display: block; margin-left: auto; margin-right: auto;"
-							src="media/documents/2021-06-17/iMachmade.jpg" alt="" width="1100" height="auto"/></h2>
-				</div>
-
-				<div class="slider" style="background-color:#000000">
-					<p class="typography-homepod-headline text-gradient"
-					   style="margin: 0px; padding: 0px; font-size: 28px; line-height: 1; font-weight: bold; letter-spacing: -0.018em; font-family: 'SF Pro Display', 'SF Pro Icons', 'Helvetica Neue', Helvetica, Arial, sans-serif; position: relative; text-align: center;">
-						&nbsp;</p>
-					<h3 class="typography-homepod-headline text-gradient"
-						style="margin: 0px; padding: 0px; font-size: 28px; line-height: 1; letter-spacing: -0.018em; font-family: 'SF Pro Display', 'SF Pro Icons', 'Helvetica Neue', Helvetica, Arial, sans-serif; position: relative; text-align: center;">
-						<span style="color: #f5f5f7; font-size: 24pt;">iPad Pro</span></h3>
-					<h2 class="typography-homepod-headline text-gradient"
-						style="margin: 0px 0px 0px 0px; padding: 0px 0px 0px; font-size: 28px; line-height: 1; font-weight: bold; letter-spacing: -0.018em; font-family: 'SF Pro Display', 'SF Pro Icons', 'Helvetica Neue', Helvetica, Arial, sans-serif; position: relative; background-image: -webkit-linear-gradient(0deg, #1d26bf 20%, #693cb6 45%, #a952ae 65%, #ed6ba6 100%); -webkit-text-fill-color: transparent; -webkit-background-clip: text; text-align: center;">
-						<span style="font-size: 14pt;">С суперсилой чипа Apple M1.</span></h2>
-					<p style="text-align: center;"><br/><a class="icon-wrapper" href="catalog/iPad.html"
-														   data-analytics-title="learn more about imac"
-														   aria-label="Подробнее об&nbsp;iMac 24&nbsp;дюйма"><span
-								class="icon-copy">Подробнее</span></a></p>
-					<p><img style="display: block; margin-left: auto; margin-right: auto;"
-							src="media/documents/2021-06-14/iPadNEWM1.jpg" alt="" width="1000" height="auto"/></p>
-				</div>
-
-				<div class="slider" style="background-color:#000000">
-					<h3 class="typography-hero-headline-super"
-						style="margin: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; color: #f5f5f7; quotes: '&laquo; ' ' &raquo;'; font-size: 24px; line-height: 1.05; letter-spacing: -0.015em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; caret-color: #f5f5f7; text-align: center; background-position: center center;">
-						&nbsp;</h3>
-					<h3 class="typography-hero-headline-super"
-						style="margin: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; color: #f5f5f7; quotes: '&laquo; ' ' &raquo;'; font-size: 24px; line-height: 1.05; letter-spacing: -0.015em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; caret-color: #f5f5f7; text-align: center; background-position: center center;">
-                            <span style="font-size: 24pt;"><span
-									class="violator-frameless typography-hero-product-eyebrow section-hero-product-violator"><span
-										style="font-size: 24pt;">Apple Watch<br/></span></span></span><span
-							style="color: #ced4d9; font-size: 14pt;">Series 6</span></h3>
-					<p style="text-align: center;">&nbsp;</p>
-					<p style="text-align: center;"><a class="icon-wrapper" href="catalog/apple-watch.html"
-													  data-analytics-title="learn more about imac"
-													  aria-label="Подробнее об&nbsp;iMac 24&nbsp;дюйма"><span
-								class="icon-copy">Подробнее</span></a></p>
-					<p style="text-align: center;">&nbsp;</p>
-					<p><img style="display: block; margin-left: auto; margin-right: auto;"
-							src="media/documents/2021-06-16/waatch.jpg" alt="" width="1100" height="auto"/></p>
-				</div>
-
-				<div class="slider" style="background-color:#000000">
-					<h3 class="typography-hero-headline-super"
-						style="margin: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; color: #f5f5f7; quotes: '&laquo; ' ' &raquo;'; font-size: 24px; line-height: 1.05; letter-spacing: -0.015em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; background-image: radial-gradient(at center center, #eff1ff 10%, #000000 100%); background-size: 54% 156%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; caret-color: #f5f5f7; text-align: center; background-position: center center;">
-						&nbsp;</h3>
-					<h3 class="typography-hero-headline-super"
-						style="margin: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; color: #f5f5f7; quotes: '&laquo; ' ' &raquo;'; font-size: 24px; line-height: 1.05; letter-spacing: -0.015em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; caret-color: #f5f5f7; text-align: center; background-position: center center;">
-                            <span style="font-size: 24pt;"><span
-									class="violator-frameless typography-hero-product-eyebrow section-hero-product-violator"><span
-										style="font-size: 24pt;">Путешествие в звук</span></span></span></h3>
-					<h2 class="typography-hero-product-headline" style="text-align: center;"><span
-							style="color: #ced4d9; font-size: 14pt;">AirPods Max</span></h2>
-					<p style="text-align: center;"><span style="color: #ced4d9; font-size: 14pt;"><a
-								class="icon-wrapper" style="font-size: medium; text-align: center;"
-								href="catalog/product/AirPods-Max.html" data-analytics-title="learn more about imac"
-								aria-label="Подробнее об&nbsp;iMac 24&nbsp;дюйма"><span
-									class="icon-copy">Подробнее</span></a></span></p>
-					<p>&nbsp;</p>
-					<h2 class="typography-hero-product-headline" style="text-align: center;"><img
-							style="display: block; margin-left: auto; margin-right: auto;"
-							src="media/documents/2021-06-17/2400x1090.jpg" alt="" width="900" height="auto"/></h2>
 				</div>
 			</div>
 		</section>
+
+
 		<section class="main-third-section mt-2">
 			<div class="h-100 max-14 d-flex flex-wrap px-2">
 				<div class="col-lg-4 col-12 px-1 pt-4">
@@ -237,6 +138,7 @@
 				</div>
 			</div>
 		</section>
+
 		<section class="main-second-section mt-4 position-relative overflow-hidden">
 			<div class="main-slider-container sales">
 

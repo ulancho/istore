@@ -2527,7 +2527,7 @@ select.form-control.loan{
         background-position: bottom center;
     }
     #app{
-        margin-top:199px;
+        margin-top:177px;
     }
 }
 
@@ -3143,4 +3143,8 @@ label.form-control.disabled{
 .product-first p.product-title{
     height: 55px;
     white-space: unset;
+}
+
+.slider-background{
+	background-color:#000000;
 }
