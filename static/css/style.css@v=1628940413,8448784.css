@@ -370,12 +370,12 @@ body label, body p, body li {
     position:relative;
     font-size: 18px;
     line-height: 21px;
-    color: #5E8BCE;
+    color: #ff6800;
     z-index:3;
 }
 
 .link:hover {
-    color: #5E8BCE;
+    color: #ff2b1c;
 }
 
 .main-little-description {
