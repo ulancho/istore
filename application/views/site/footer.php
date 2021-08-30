@@ -21,7 +21,6 @@
                 </div>
                 <hr class="clearfix w-100 d-md-none pb-3">
                 <div class="col-md-2 col-sm-6 mb-md-0 mb-3 ml-auto">
-                    <h5 class="sf-medium">Продукция</h5>
                     <ul class="list-unstyled">
                         <li>
                             <a href="catalog/macBook.html">Mac</a>
@@ -42,7 +41,6 @@
 
                 </div>
                 <div class="col-md-2 col-sm-6 mb-md-0 mb-3">
-                    <h5 class="sf-medium">7 лет с Вами!</h5>
                     <ul class="list-unstyled">
                         <li>
                             <a href="about-us.html">О нас</a>
@@ -59,7 +57,6 @@
                     </ul>
                 </div>
                 <div class="col-md-2 col-sm-6 mb-md-0 mb-3">
-                    <h5 class="sf-medium">Контакты</h5>
                     <ul class="list-unstyled">
                         <li class="d-flex align-items-start">
                             <img class="mr-2 mt-1" src="static/img/pin.svg" alt="">
@@ -89,24 +86,11 @@
             </div>
         </div>
         <div class="footer-copyright bg-dark">
-            <div class="container d-flex flex-wrap h-100 align-items-center py-3">
-                <p class="col-12 col-md-4 col-lg-4 sf-reg agree">Copyright 2013-2021 istore.kg все права защищены</p>
-                <a class="col-12 col-md-3 col-lg-3 sf-reg agree mt-2 mt-md-0 text-right" target="_blank" href="privacy">
-                    Политика
-                    конфиденциальности
-                </a>
-                <a class="col-12 col-md-3 col-lg-3 sf-reg agree mt-2 mt-md-0 text-right" target="_blank"
-                   href="agreement"> Пользовательское
-                    соглашение
-                </a>
-                <a class="col-12 col-md-2 col-lg-2 sf-reg agree mt-2 mt-md-0 text-right" href="https://to-moore.com"
-                   target="_blank">
-                    made in <span class="sf-bold">MOORE STUDIO</span>
-                </a>
+            <div class="container d-flex h-100 align-items-center py-3">
+                <p class="col-12 col-md-12 col-lg-12 sf-reg agree text-center">Copyright 2021 istores.kg все права защищены</p>
             </div>
         </div>
     </footer>
-
 
     <div class="modal fade" id="viewCatalog" tabindex="-1" role="dialog" aria-labelledby="callBack" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
@@ -234,7 +218,6 @@
             </div>
         </div>
     </div>
-
 </div>
 
 

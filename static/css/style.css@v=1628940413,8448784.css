@@ -336,7 +336,7 @@ body label, body p, body li {
 }
 
 .footer-magic {
-    min-height: 317px;
+    min-height: 240px;
 }
 
 .main-first-section, .main-second-section{
@@ -431,12 +431,11 @@ body label, body p, body li {
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    /*background-color: #ffffff;*/
     background-clip: border-box;
     padding: 0 10px !important;
 }
 
-.phone-card:hover{
+.main-third-section .phone-card:hover{
 	-webkit-box-shadow: 0px 0px 15px rgb(0 0 0 / 20%);
 	-moz-box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
 	box-shadow: 0px 0px 15px rgb(0 0 0 / 20%);
@@ -445,7 +444,6 @@ body label, body p, body li {
 }
 
 .phone-card .card-body {
-    background: #ffffff;
     padding: 20px 25px;
 }
 
@@ -468,7 +466,7 @@ body label, body p, body li {
     font-size: 15px;
     line-height: 18px;
     text-transform: lowercase;
-    color: #5E8BCE;
+    color: #ff6800;
 }
 
 .phone-card .card-image {
@@ -532,7 +530,7 @@ body label, body p, body li {
     font-size: 15px;
     line-height: 18px;
     text-transform: lowercase;
-    color: #5E8BCE;
+    color: #ff6800;
 }
 
 
