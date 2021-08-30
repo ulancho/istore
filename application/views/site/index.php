@@ -49,7 +49,7 @@
 				</div>
 			</div>
 		</section>
-
+        <!--    Каталог    -->
 		<section class="main-second-section container">
 			<div class="h-100 d-flex flex-wrap">
 				<div class="text-center w-100 my-lg-5 mt-2 mb-4">
@@ -142,6 +142,95 @@
 						</a>
 					</div>
 				</div>
+			</div>
+		</section>
+        <!--	Рекомендуемые товары	-->
+		<section class="main-second-section container">
+			<div class="h-100 d-flex flex-wrap">
+				<div class="text-center w-100 my-lg-5 mt-2 mb-4">
+					<h3 class="sf-sem main-title mb-0">Рекомендуемые</h3>
+				</div>
+			</div>
+
+			<div class="col-12 d-flex flex-wrap mt-4">
+
+				<div class="col-lg-3 col-md-6 col-12 mt-lg-0 mt-2 phone-card" data-aos-easing="ease-in-back"
+					 data-aos-delay="10" data-aos-offset="0">
+					<div class="card-body d-flex flex-wrap align-content-between mt-3 position-relative">
+						<div class="overflow main-third-section mt-4-hidden">
+							<h5 class="card-title of-ellipsis">iPhone 12 Pro Max</h5>
+							<h6 class="card-subtitle mb-2 text-muted of-3-ellipsis"></h6>
+						</div>
+						<div class="w-100 text-center pt-2 pb-4">
+							<img class="card-image" src="static/media/products/iphone-12-pro-max-blue-hero.webp"
+								 alt="">
+						</div>
+						<div class="w-100 d-flex justify-content-end flex-column mt-auto">
+							<p class="sf-medium">100064 сом</p>
+							<p class="sf-light grey-color">от $1180,0</p>
+						</div>
+						<a class="ml-2 link-to-product" href="static/catalog/product/12-pro-max.html">
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 col-12 mt-lg-0 mt-2 phone-card" data-aos-easing="ease-in-back"
+					 data-aos-delay="10" data-aos-offset="0">
+					<div class="card-body d-flex flex-wrap align-content-between mt-3 position-relative">
+						<div class="overflow main-third-section mt-4-hidden">
+							<h5 class="card-title of-ellipsis">iPhone 12 Pro Max</h5>
+							<h6 class="card-subtitle mb-2 text-muted of-3-ellipsis"></h6>
+						</div>
+						<div class="w-100 text-center pt-2 pb-4">
+							<img class="card-image" src="static/media/products/iphone-12-pro-max-blue-hero.webp"
+								 alt="">
+						</div>
+						<div class="w-100 d-flex justify-content-end flex-column mt-auto">
+							<p class="sf-medium">100064 сом</p>
+							<p class="sf-light grey-color">от $1180,0</p>
+						</div>
+						<a class="ml-2 link-to-product" href="static/catalog/product/12-pro-max.html">
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 col-12 mt-lg-0 mt-2 phone-card" data-aos-easing="ease-in-back"
+					 data-aos-delay="10" data-aos-offset="0">
+					<div class="card-body d-flex flex-wrap align-content-between mt-3 position-relative">
+						<div class="overflow main-third-section mt-4-hidden">
+							<h5 class="card-title of-ellipsis">iPhone 12 Pro Max</h5>
+							<h6 class="card-subtitle mb-2 text-muted of-3-ellipsis"></h6>
+						</div>
+						<div class="w-100 text-center pt-2 pb-4">
+							<img class="card-image" src="static/media/products/iphone-12-pro-max-blue-hero.webp"
+								 alt="">
+						</div>
+						<div class="w-100 d-flex justify-content-end flex-column mt-auto">
+							<p class="sf-medium">100064 сом</p>
+							<p class="sf-light grey-color">от $1180,0</p>
+						</div>
+						<a class="ml-2 link-to-product" href="static/catalog/product/12-pro-max.html">
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 col-12 mt-lg-0 mt-2 phone-card" data-aos-easing="ease-in-back"
+						   data-aos-delay="10" data-aos-offset="0">
+					<div class="card-body d-flex flex-wrap align-content-between mt-3 position-relative">
+						<div class="overflow main-third-section mt-4-hidden">
+							<h5 class="card-title of-ellipsis">iPhone 12 Pro Max</h5>
+							<h6 class="card-subtitle mb-2 text-muted of-3-ellipsis"></h6>
+						</div>
+						<div class="w-100 text-center pt-2 pb-4">
+							<img class="card-image" src="static/media/products/iphone-12-pro-max-blue-hero.webp"
+								 alt="">
+						</div>
+						<div class="w-100 d-flex justify-content-end flex-column mt-auto">
+							<p class="sf-medium">100064 сом</p>
+							<p class="sf-light grey-color">от $1180,0</p>
+						</div>
+						<a class="ml-2 link-to-product" href="static/catalog/product/12-pro-max.html">
+						</a>
+					</div>
+				</div>
+
 			</div>
 		</section>
 
