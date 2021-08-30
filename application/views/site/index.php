@@ -22,7 +22,7 @@
 					<p>&nbsp;</p>
 					<h2 class="typography-hero-product-headline" style="text-align: center; padding-left: 40px;">
 						<img style="display: block; margin-left: auto; margin-right: auto;"
-							 src="static/media/documents/2021-06-15/NEWiphone_12_pro__f7wokw1n4lm6_large_2x.jpg" alt=""
+							 src="static/media/_slider/1.jpg" alt=""
 							 width="1000" height="auto"/></h2>
 				</div>
 
@@ -44,11 +44,12 @@
 					<p>&nbsp;</p>
 					<h2 class="typography-hero-product-headline" style="text-align: center;"><img
 							style="display: block; margin-left: auto; margin-right: auto;"
-							src="static/media/documents/2021-06-15/hero_endframe__bsza6x4fldiq_large_2x_jHg8g3f.jpg" alt=""
+							src="static/media/_slider/2.jpg" alt=""
 							width="1100" height="auto"/></h2>
 				</div>
 			</div>
 		</section>
+
         <!--    Каталог    -->
 		<section class="main-second-section container">
 			<div class="h-100 d-flex flex-wrap">
@@ -60,7 +61,7 @@
 			<div class="d-flex flex-wrap mb-10">
 				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
 					<div class="catalog-card">
-						<img src="static/media/category/macbook.png" alt="">
+						<img src="static/media/_catalog/macbook.png" alt="">
 						<div class="d-flex flex-wrap justify-content-between">
 							<p class="sf-sem catalog-name">Mac</p>
 							<a href="macBook.html" class="link">
@@ -74,7 +75,7 @@
 				</div>
 				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
 					<div class="catalog-card">
-						<img src="static/media/category/new.png" alt="">
+						<img src="static/media/_catalog/iphone.png" alt="">
 						<div class="d-flex flex-wrap justify-content-between">
 							<p class="sf-sem catalog-name">iPhone</p>
 							<a href="iphone.html" class="link">
@@ -88,7 +89,7 @@
 				</div>
 				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
 					<div class="catalog-card">
-						<img src="static/media/category/ipad.png" alt="">
+						<img src="static/media/_catalog/ipad.png" alt="">
 						<div class="d-flex flex-wrap justify-content-between">
 							<p class="sf-sem catalog-name">iPad</p>
 							<a href="iPad.html" class="link">
@@ -102,7 +103,7 @@
 				</div>
 				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
 					<div class="catalog-card">
-						<img src="static/media/category/watches.png" alt="">
+						<img src="static/media/_catalog/watches.png" alt="">
 						<div class="d-flex flex-wrap justify-content-between">
 							<p class="sf-sem catalog-name">Watch</p>
 							<a href="apple-watch.html" class="link">
@@ -116,7 +117,7 @@
 				</div>
 				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
 					<div class="catalog-card">
-						<img src="static/media/category/acces.png" alt="">
+						<img src="static/media/_catalog/acces.png" alt="">
 						<div class="d-flex flex-wrap justify-content-between">
 							<p class="sf-sem catalog-name">Аксессуары</p>
 							<a href="accessory.html" class="link">
@@ -130,7 +131,7 @@
 				</div>
 				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
 					<div class="catalog-card">
-						<img src="static/media/category/gadget.png" alt="">
+						<img src="static/media/_catalog/gadget.png" alt="">
 						<div class="d-flex flex-wrap justify-content-between mt-auto">
 							<p class="sf-sem catalog-name">Гаджеты</p>
 							<a href="gadgets.html" class="link">
@@ -159,11 +160,11 @@
 					 data-aos-delay="10" data-aos-offset="0">
 					<div class="card-body d-flex flex-wrap align-content-between mt-3 position-relative bg-white">
 						<div class="overflow main-third-section mt-4-hidden">
-							<h5 class="card-title of-ellipsis">iPhone 12 Pro Max</h5>
+							<h5 class="card-title of-ellipsis">Beats Solo3 Wireless</h5>
 							<h6 class="card-subtitle mb-2 text-muted of-3-ellipsis"></h6>
 						</div>
 						<div class="w-100 text-center pt-2 pb-4">
-							<img class="card-image" src="static/media/products/iphone-12-pro-max-blue-hero.webp"
+							<img class="card-image" src="static/media/_products/product1.png"
 								 alt="">
 						</div>
 						<div class="w-100 d-flex justify-content-end flex-column mt-auto">
@@ -178,11 +179,11 @@
 					 data-aos-delay="10" data-aos-offset="0">
 					<div class="card-body d-flex flex-wrap align-content-between mt-3 position-relative bg-white">
 						<div class="overflow main-third-section mt-4-hidden">
-							<h5 class="card-title of-ellipsis">iPhone 12 Pro Max</h5>
+							<h5 class="card-title of-ellipsis">Beats Solo3 Wireless</h5>
 							<h6 class="card-subtitle mb-2 text-muted of-3-ellipsis"></h6>
 						</div>
 						<div class="w-100 text-center pt-2 pb-4">
-							<img class="card-image" src="static/media/products/iphone-12-pro-max-blue-hero.webp"
+							<img class="card-image" src="static/media/_products/product1.png"
 								 alt="">
 						</div>
 						<div class="w-100 d-flex justify-content-end flex-column mt-auto">
@@ -197,11 +198,11 @@
 					 data-aos-delay="10" data-aos-offset="0">
 					<div class="card-body d-flex flex-wrap align-content-between mt-3 position-relative bg-white">
 						<div class="overflow main-third-section mt-4-hidden">
-							<h5 class="card-title of-ellipsis">iPhone 12 Pro Max</h5>
+							<h5 class="card-title of-ellipsis">Beats Solo3 Wireless</h5>
 							<h6 class="card-subtitle mb-2 text-muted of-3-ellipsis"></h6>
 						</div>
 						<div class="w-100 text-center pt-2 pb-4">
-							<img class="card-image" src="static/media/products/iphone-12-pro-max-blue-hero.webp"
+							<img class="card-image" src="static/media/_products/product1.png"
 								 alt="">
 						</div>
 						<div class="w-100 d-flex justify-content-end flex-column mt-auto">
@@ -216,11 +217,11 @@
 						   data-aos-delay="10" data-aos-offset="0">
 					<div class="card-body d-flex flex-wrap align-content-between mt-3 position-relative bg-white">
 						<div class="overflow main-third-section mt-4-hidden">
-							<h5 class="card-title of-ellipsis">iPhone 12 Pro Max</h5>
+							<h5 class="card-title of-ellipsis">Beats Solo3 Wireless</h5>
 							<h6 class="card-subtitle mb-2 text-muted of-3-ellipsis"></h6>
 						</div>
 						<div class="w-100 text-center pt-2 pb-4">
-							<img class="card-image" src="static/media/products/iphone-12-pro-max-blue-hero.webp"
+							<img class="card-image" src="static/media/_products/product1.png"
 								 alt="">
 						</div>
 						<div class="w-100 d-flex justify-content-end flex-column mt-auto">
@@ -299,8 +300,8 @@
 
 					<div class="col-lg-4 col-md-6 col-12 mt-lg-0 mt-2 news-card">
 						<div class="col-12 px-0  d-flex justify-content-center">
-							<a class="" href="article/6.html">
-								<img src="static/media/articles/5k_trZqhHJ.png"
+							<a class="" href="">
+								<img src="static/media/_news/news1.png"
 									 class="card-img-top" alt="...">
 							</a>
 						</div>
@@ -308,49 +309,47 @@
 							<p class="card-date">07.12.20</p>
 							<h5 class="card-title mt-2 of-ellipsis">Акция месяца</h5>
 							<p class="card-text mb-2 of-3-ellipsis">
-								– 5000 сомов при покупке MacBook Pro с 13-дюймовым экраном.
+								5000 сомов при покупке MacBook Pro с 13-дюймовым экраном.
 							</p>
-							<a class="link" href="article/6.html">
+							<a class="link" href="">
 								подробнее
 								<img src="static/img/right-arr.svg" alt="">
 							</a>
 						</div>
 					</div>
-
 					<div class="col-lg-4 col-md-6 col-12 mt-lg-0 mt-2 news-card">
 						<div class="col-12 px-0  d-flex justify-content-center">
-							<a class="" href="article/7.html">
-								<img src="static/media/articles/winner2_ujUyEXt.png"
+							<a class="" href="">
+								<img src="static/media/_news/news1.png"
 									 class="card-img-top" alt="...">
 							</a>
 						</div>
 						<div class="card-body bg-none">
-							<p class="card-date">09.12.20</p>
-							<h5 class="card-title mt-2 of-ellipsis">Выиграй!</h5>
+							<p class="card-date">07.12.20</p>
+							<h5 class="card-title mt-2 of-ellipsis">Акция месяца</h5>
 							<p class="card-text mb-2 of-3-ellipsis">
-								MacBook Air · Apple Watch · AirPods
+								5000 сомов при покупке MacBook Pro с 13-дюймовым экраном.
 							</p>
-							<a class="link" href="article/7.html">
+							<a class="link" href="">
 								подробнее
 								<img src="static/img/right-arr.svg" alt="">
 							</a>
 						</div>
 					</div>
-
 					<div class="col-lg-4 col-md-6 col-12 mt-lg-0 mt-2 news-card">
 						<div class="col-12 px-0  d-flex justify-content-center">
-							<a class="" href="article/8.html">
-								<img src="static/media/articles/979n502.png"
+							<a class="" href="">
+								<img src="static/media/_news/news1.png"
 									 class="card-img-top" alt="...">
 							</a>
 						</div>
 						<div class="card-body bg-none">
-							<p class="card-date">15.12.20</p>
-							<h5 class="card-title mt-2 of-ellipsis">Перенос данных</h5>
+							<p class="card-date">07.12.20</p>
+							<h5 class="card-title mt-2 of-ellipsis">Акция месяца</h5>
 							<p class="card-text mb-2 of-3-ellipsis">
-								Со старого устройства iOS на новый iPhone, iPad или iPod touch
+								5000 сомов при покупке MacBook Pro с 13-дюймовым экраном.
 							</p>
-							<a class="link" href="article/8.html">
+							<a class="link" href="">
 								подробнее
 								<img src="static/img/right-arr.svg" alt="">
 							</a>
