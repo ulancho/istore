@@ -5,7 +5,7 @@
 				<h3 class="sf-sem main-title mb-5" data-aos="fade-zoom-in" data-aos-easing="ease-in-back"
 					data-aos-delay="10" data-aos-offset="0" style="line-height: 100%;">
 					iStore - фирменный магазин Apple <br/> в Бишкеке</h3>
-				<img class="response-img about_us_image" src="media/about_us_page/2020.20.26-00015_r9b2z4I.jpg"
+				<img class="response-img about_us_image" src="static/media/_about_us/540.png"
 					 alt="" data-aos="fade-down" data-aos-offset="100" data-aos-duration="1500">
 			</div>
 		</div>
@@ -162,5 +162,4 @@
 			</div>
 		</div>
 	</section>
-
 </div>
