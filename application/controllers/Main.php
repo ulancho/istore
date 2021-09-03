@@ -2,18 +2,6 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Main extends CI_Controller {
-	public function __construct()
-	{
-		parent::__construct();
-		$this->load->library('pagination');
-		$this->load->helper('url');
-		$this->load->library('email');
-		$this->load->helper('html');
-//		$this->load->model('AdminModels');
-//		$this->load->database();
-		header('Content-Type: text/html; charset=utf-8');
-	}
-
 	/*Стр: Главная*/
 	public function index()
 	{
@@ -27,6 +15,14 @@ class Main extends CI_Controller {
 	{
 		$this->load->view('site/header');
 		$this->load->view('site/about');
+		$this->load->view('site/footer');
+	}
+
+	/*Стр: Продукция*/
+	public function catalog()
+	{
+		$this->load->view('site/header');
+		$this->load->view('site/catalog');
 		$this->load->view('site/footer');
 	}
 }
