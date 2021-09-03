@@ -1,6 +1,5 @@
 <div id="app">
-	<div class="wrapper">
-		<section class="about-us-first">
+		<section>
 			<div class="h-100 container d-flex flex-wrap">
 				<div class="text-center w-100 mb-5">
 					<img class="response-img about_us_image" src="static/media/_about_us/540.png"
@@ -8,7 +7,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="about-us-second">
+		<section>
 			<div class="h-100 container">
 				<div class="d-flex flex-wrap justify-content-center  mt-5">
 					<div class="col-lg-6 col-12">
@@ -158,6 +157,5 @@
 				</div>
 			</div>
 		</section>
-	</div>
 </div>
 
