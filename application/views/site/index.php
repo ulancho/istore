@@ -66,11 +66,8 @@
 							<p class="sf-sem catalog-name">Mac</p>
 							<a href="macBook.html" class="link">
 								перейти
-								<img src="static/img/right-arr.svg" alt="">
 							</a>
 						</div>
-						<a class="ml-2 link-to-product" href="macBook.html">
-						</a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
@@ -80,11 +77,8 @@
 							<p class="sf-sem catalog-name">iPhone</p>
 							<a href="iphone.html" class="link">
 								перейти
-								<img src="static/img/right-arr.svg" alt="">
 							</a>
 						</div>
-						<a class="ml-2 link-to-product" href="iphone.html">
-						</a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
@@ -94,11 +88,8 @@
 							<p class="sf-sem catalog-name">iPad</p>
 							<a href="iPad.html" class="link">
 								перейти
-								<img src="static/img/right-arr.svg" alt="">
 							</a>
 						</div>
-						<a class="ml-2 link-to-product" href="iPad.html">
-						</a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
@@ -108,11 +99,8 @@
 							<p class="sf-sem catalog-name">Watch</p>
 							<a href="apple-watch.html" class="link">
 								перейти
-								<img src="static/img/right-arr.svg" alt="">
 							</a>
 						</div>
-						<a class="ml-2 link-to-product" href="apple-watch.html">
-						</a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
@@ -120,13 +108,10 @@
 						<img src="static/media/_catalog/acces.png" alt="">
 						<div class="d-flex flex-wrap justify-content-between">
 							<p class="sf-sem catalog-name">Аксессуары</p>
-							<a href="accessory.html" class="link">
+							<a href="" class="link">
 								перейти
-								<img src="static/img/right-arr.svg" alt="">
 							</a>
 						</div>
-						<a class="ml-2 link-to-product" href="accessory.html">
-						</a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-12 px-1 mb-2">
@@ -136,11 +121,8 @@
 							<p class="sf-sem catalog-name">Гаджеты</p>
 							<a href="gadgets.html" class="link">
 								перейти
-								<img src="static/img/right-arr.svg" alt="">
 							</a>
 						</div>
-						<a class="ml-2 link-to-product" href="gadgets.html">
-						</a>
 					</div>
 				</div>
 			</div>
@@ -155,7 +137,6 @@
 			</div>
 
 			<div class="col-12 d-flex flex-wrap mt-4">
-
 				<div class="col-lg-3 col-md-6 col-12 mt-lg-0 mt-2 phone-card" data-aos-easing="ease-in-back"
 					 data-aos-delay="10" data-aos-offset="0">
 					<div class="card-body d-flex flex-wrap align-content-between mt-3 position-relative bg-white">
@@ -249,10 +230,9 @@
 							</h6>
 							<a class="link" href="service.html">
 								перейти
-								<img src="static/img/right-arr.svg" alt="">
 							</a>
-							<div class="mt-4 text-right overflow-hidden">
-								<img class="max-width-100" src="media/main_page/1_pMbxBwi_iQbAio3.png" alt="">
+							<div class="mt-4 text-right  overflow-hidden">
+								<img class="max-width-30" src="static/media/_service/icons/smartphone.svg" alt="">
 							</div>
 						</div>
 					</div>
@@ -263,12 +243,11 @@
 							<h6 class="card-subtitle mb-2 text-muted">
 								Все необходимые запчасти и аксессуары для вашего MacBook
 							</h6>
-							<a class="link" href="service/macBook.html">
+							<a class="link" href="">
 								перейти
-								<img src="static/img/right-arr.svg" alt="">
 							</a>
 							<div class="mt-4 text-right  overflow-hidden">
-								<img class="max-width-100" src="media/main_page/2_6OM1Gq9_ghSTywJ.png" alt="">
+								<img class="max-width-30" src="static/media/_service/icons/macbook.svg" alt="">
 							</div>
 						</div>
 					</div>
@@ -287,11 +266,10 @@
 					   data-aos-delay="10"
 					   data-aos-offset="0">Оставайтесь всегда в курсе событий</p>
 					<div class="d-flex mt-2">
-						<a class=" ml-2 link" href="articles.html" data-aos-easing="ease-in-back"
+						<a class=" ml-2 link" href="" data-aos-easing="ease-in-back"
 						   data-aos-delay="10"
 						   data-aos-offset="0">
 							подробнее
-							<img src="static/img/right-arr.svg" alt="">
 						</a>
 					</div>
 				</div>
@@ -313,7 +291,6 @@
 							</p>
 							<a class="link" href="">
 								подробнее
-								<img src="static/img/right-arr.svg" alt="">
 							</a>
 						</div>
 					</div>
@@ -332,7 +309,6 @@
 							</p>
 							<a class="link" href="">
 								подробнее
-								<img src="static/img/right-arr.svg" alt="">
 							</a>
 						</div>
 					</div>
@@ -351,11 +327,9 @@
 							</p>
 							<a class="link" href="">
 								подробнее
-								<img src="static/img/right-arr.svg" alt="">
 							</a>
 						</div>
 					</div>
-
 				</div>
 			</div>
 		</section>
