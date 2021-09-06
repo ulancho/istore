@@ -57,3 +57,4 @@ $route['about'] = 'Main/about';
 $route['catalog'] = 'Main/catalog';
 $route['warranty'] = 'Main/warranty';
 $route['loan'] = 'Main/loan';
+$route['news'] = 'Main/news';
