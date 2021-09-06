@@ -56,3 +56,4 @@ $route['translate_uri_dashes'] = FALSE;
 $route['about'] = 'Main/about';
 $route['catalog'] = 'Main/catalog';
 $route['warranty'] = 'Main/warranty';
+$route['loan'] = 'Main/loan';

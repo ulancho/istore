@@ -33,4 +33,12 @@ class Main extends CI_Controller {
 		$this->load->view('site/warranty');
 		$this->load->view('site/footer');
 	}
+
+	/*Стр: Гарантия*/
+	public function loan()
+	{
+		$this->load->view('site/header');
+		$this->load->view('site/loan');
+		$this->load->view('site/footer');
+	}
 }
